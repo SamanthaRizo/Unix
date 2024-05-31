@@ -48,5 +48,7 @@ cd ..
 
 - rm: Elimina un archivo
 - rmdir: Elimina un directorio vacío
-- rm -r: Elimina un directorio con contenido Para más información
-  <https://www.autentia.com/wp-content/uploads/2023/03/comandos_unix.pdf>.
+- rm -r: Elimina un directorio con contenido
+
+Para más información
+<https://www.autentia.com/wp-content/uploads/2023/03/comandos_unix.pdf>.
